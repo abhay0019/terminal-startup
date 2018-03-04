@@ -1,0 +1,4 @@
+xcb_connection_has_error() returned true
+[000000000194eee8] core interface error: no suitable interface module
+[000000000183c148] core libvlc error: interface "globalhotkeys,none" initialization failed
+[00000000019534d8] dummy interface: using the dummy interface module...
